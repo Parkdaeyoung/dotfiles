@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/parkdaeyoung/Library/Preferences'
+let g:netrw_dirhist_2='/Users/parkdaeyoung/Playground/Twitter/modules'
+let g:netrw_dirhist_3='/Users/parkdaeyoung/Playground/Twitter/data'
+let g:netrw_dirhist_4='/Users/parkdaeyoung/Playground/Algorithms'
+let g:netrw_dirhist_5='/Users/parkdaeyoung/Downloads/llvm-4.0.0.src/llvm/lib/Object'
